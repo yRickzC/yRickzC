@@ -1,14 +1,22 @@
-# 💫 About Me
+# Sobre
 Áreas de interesse: Backend (Spring Boot), C++, Renderização 3D, Estruturas de Dados Otimizadas, Arquitetura de IA (Self-Attention)
+
+
+| Sigla | Classificação                              |
+| :---- | :----------------------------------------- |
+| EDU   | Projetos de faculdade ou cursos realizados |
+| PRT   | Projetos de portfólio                      |
+| PES   | Projetos pessoais em desenvolvimento       |
+| WRK   | Projetos de trabalho                       |
 
 ---
 
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pedro-henrique-79b326157/)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Bots & AI
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
@@ -50,3 +58,5 @@
 
 ### Game Dev & 3D
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+
+
